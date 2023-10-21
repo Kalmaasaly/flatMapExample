@@ -1,5 +1,4 @@
 # flatMapExample
-# Project Title
 
 This project demonstrates the usage of streams in Java to process books and their chapters.
 
