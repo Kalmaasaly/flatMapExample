@@ -66,3 +66,20 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    4. Commit your changes: git commit -m 'Add some feature'
    5. Push the branch: git push origin feature/your-feature-name
    6. Create a pull request
+
+   # License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## License Description
+
+The MIT License is a permissive open-source license that allows you to freely use, modify, and distribute this software, both commercially and non-commercially. It provides a balance between granting permissions to users and protecting the original author's rights.
+
+## Disclaimer
+
+Please note that this license applies to the source code and associated documentation of this project. Any third-party libraries, frameworks, or dependencies used in this project may have their own separate licenses. Make sure to review and comply with those licenses when using or distributing this project.
+
+## Attribution
+
+If you use or modify this project, it is appreciated but not required to provide attribution to the original authors by including a mention or a link to this repository.
+```
